@@ -12,11 +12,11 @@ Here is an early preview:
 
 # Firmware
 
-The firmware used is going to be the [QMK keyboard firmware](https://github.com/qmk/qmk_firmware) however that is currently far away
+The firmware used is going to be the [QMK keyboard firmware](https://github.com/qmk/qmk_firmware) however that is currently far away.
 
 # Used resources
 
-Tools while developing the keyboard
+Tools while developing the keyboard.
 
 ## Tools
 
