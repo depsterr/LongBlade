@@ -16,13 +16,15 @@ The firmware used is going to be the [QMK keyboard firmware](https://github.com/
 
 # Used resources
 
-## tools
+Tools while developing the keyboard
+
+## Tools
 
 http://www.keyboard-layout-editor.com/#/
 
 http://builder.swillkb.com/
 
-## inspiration
+## Inspiration
 
 https://www.qlavier.com/product/vaporblade/
 
