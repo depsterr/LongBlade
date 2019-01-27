@@ -4,7 +4,11 @@ The long blade is a work in progress keyboard inspired by the vaporblade and hyp
 
 # Layout
 
-The layout is currently planned to be the same as a normal 100% ansi keyboard but with the esc/f row of keys being moved to a macro cluster to the far left of the keyboard
+The layout is currently planned to be the same as a normal 100% ansi keyboard but with the esc/f row of keys being moved to a macro cluster to the far left of the keyboard.
+
+Here is an early preview:
+
+![alt text](https://github.com/depsterr/LongBlade/raw/master/layout%20preview.png)
 
 # Used resources
 
