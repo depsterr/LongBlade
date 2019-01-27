@@ -10,6 +10,10 @@ Here is an early preview:
 
 ![alt text](https://github.com/depsterr/LongBlade/raw/master/layout%20preview.png)
 
+# Firmware
+
+The firmware used is going to be the [QMK keyboard firmware](https://github.com/qmk/qmk_firmware) however that is currently far away
+
 # Used resources
 
 ## tools
