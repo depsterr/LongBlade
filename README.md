@@ -8,7 +8,7 @@ The layout is currently planned to be the same as a normal 100% ansi keyboard bu
 
 Here is an early preview:
 
-![Keyboard Layout Editor preview](https://github.com/depsterr/LongBlade/raw/master/Layout/layout%20preview.png)
+![Keyboard Layout Editor preview](https://github.com/depsterr/LongBlade/raw/master/Layout/Long%20blade.png)
 
 # Firmware
 
